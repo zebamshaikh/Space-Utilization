@@ -3,5 +3,4 @@ numpy
 datetime
 matplotlib
 streamlit
-io
-base64
+
