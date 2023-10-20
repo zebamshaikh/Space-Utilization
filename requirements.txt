@@ -3,4 +3,5 @@ numpy
 datetime
 matplotlib
 streamlit
+xlsxwriter
 
